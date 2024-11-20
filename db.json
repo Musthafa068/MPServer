@@ -1,0 +1,206 @@
+{
+  "allVideos": [
+    {
+      "id": "852c",
+      "caption": "Vaazha",
+      "imageURL": "https://preview.redd.it/vaazha-first-look-poster-v0-wgsajydj1r3d1.jpeg?width=1080&crop=smart&auto=webp&s=744ba93a476687f1aa3fbd90be8cc692e5661b3a",
+      "YoutubeURL": "https://www.youtube.com/embed/e1BHIY9p2WU"
+    },
+    {
+      "id": "ebb7",
+      "caption": "Habibi",
+      "imageURL": "https://th.bing.com/th/id/OIP.saJ5SVD3VHmjSpRprPwImQHaEK?rs=1&pid=ImgDetMain",
+      "YoutubeURL": "https://www.youtube.com/embed/drr8XByJMMI"
+    },
+    {
+      "id": "c978",
+      "caption": "Jupiter Mazha",
+      "imageURL": "https://i.ytimg.com/vi/7xQCCw5sbdY/maxresdefault.jpg",
+      "YoutubeURL": "https://www.youtube.com/embed/7xQCCw5sbdY"
+    }
+  ],
+  "allcategory": [
+    {
+      "id": "6809",
+      "categoryName": "Songs",
+      "allVideos": [
+        {
+          "id": "4eef",
+          "caption": "Habibi",
+          "imageURL": "https://images.ottplay.com/images/avesham-poster-1702648093.jpg?impolicy=ottplay-20210210&width=600",
+          "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI"
+        },
+        null,
+        {
+          "id": "b6a0",
+          "caption": "Avesham",
+          "imageURL": "https://images.ottplay.com/images/avesham-poster-1702648093.jpg?impolicy=ottplay-20210210&width=600",
+          "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI"
+        }
+      ]
+    },
+    {
+      "id": "54eb",
+      "categoryName": "trailer",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "a8f2",
+      "caption": "Amaran",
+      "YoutubeURL": "https://www.youtube.com/embed/0Z3I8TSUwLI",
+      "formatedDate": "11/11/2024, 9:47:44 am"
+    },
+    {
+      "id": "b608",
+      "caption": "Vaazha",
+      "YoutubeURL": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatedDate": "11/11/2024, 9:49:08 am"
+    },
+    {
+      "id": "f019",
+      "caption": "Jupiter Mazha",
+      "YoutubeURL": "https://www.youtube.com/embed/7xQCCw5sbdY",
+      "formatedDate": "11/11/2024, 10:22:16 am"
+    },
+    {
+      "id": "6551",
+      "caption": "Vaazha",
+      "YoutubeURL": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatedDate": "11/11/2024, 10:49:47 am"
+    },
+    {
+      "id": "b2b5",
+      "caption": "Vaazha",
+      "YoutubeURL": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatedDate": "17/11/2024, 11:22:42 pm"
+    },
+    {
+      "id": "e20a",
+      "caption": "ARM",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "17/11/2024, 11:23:06 pm"
+    },
+    {
+      "id": "1754",
+      "caption": "Amaran",
+      "YoutubeURL": "https://www.youtube.com/embed/0Z3I8TSUwLI",
+      "formatedDate": "17/11/2024, 11:24:18 pm"
+    },
+    {
+      "id": "e269",
+      "caption": "ARM",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "18/11/2024, 12:20:23 am"
+    },
+    {
+      "id": "bc6b",
+      "caption": "ARM",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "18/11/2024, 11:06:19 pm"
+    },
+    {
+      "id": "5417",
+      "caption": "Habibi",
+      "YoutubeURL": "https://www.youtube.com/embed/drr8XByJMMI",
+      "formatedDate": "19/11/2024, 9:11:52 am"
+    },
+    {
+      "id": "dbdc",
+      "caption": "ARM",
+      "YoutubeURL": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatedDate": "19/11/2024, 9:33:30 am"
+    },
+    {
+      "id": "a9f3",
+      "caption": "Amaran",
+      "YoutubeURL": "https://www.youtube.com/embed/AiD6SOOBKZI",
+      "formatedDate": "19/11/2024, 9:34:01 am"
+    },
+    {
+      "id": "104c",
+      "caption": "Avesham",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "19/11/2024, 9:34:43 am"
+    },
+    {
+      "id": "cba7",
+      "caption": "Avesham",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "19/11/2024, 10:09:56 am"
+    },
+    {
+      "id": "f618",
+      "caption": "ARM",
+      "YoutubeURL": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatedDate": "19/11/2024, 10:10:00 am"
+    },
+    {
+      "id": "de40",
+      "caption": "Avesham",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "19/11/2024, 10:32:22 am"
+    },
+    {
+      "id": "2869",
+      "caption": "Amaran",
+      "YoutubeURL": "https://www.youtube.com/embed/AiD6SOOBKZI",
+      "formatedDate": "19/11/2024, 8:08:04 pm"
+    },
+    {
+      "id": "3caf",
+      "caption": "Habibi",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "19/11/2024, 8:08:16 pm"
+    },
+    {
+      "id": "caf5",
+      "caption": "Habibi",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "19/11/2024, 8:08:22 pm"
+    },
+    {
+      "id": "4383",
+      "caption": "Amaran",
+      "YoutubeURL": "https://www.youtube.com/embed/AiD6SOOBKZI",
+      "formatedDate": "20/11/2024, 9:27:52 am"
+    },
+    {
+      "id": "82a4",
+      "caption": "Habibi",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "20/11/2024, 9:28:35 am"
+    },
+    {
+      "id": "1208",
+      "caption": "Avesham",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "20/11/2024, 9:29:38 am"
+    },
+    {
+      "id": "c8aa",
+      "caption": "Avesham",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "20/11/2024, 9:29:41 am"
+    },
+    {
+      "caption": "Jupiter Mazha",
+      "YoutubeURL": "https://www.youtube.com/embed/7xQCCw5sbdY",
+      "formatedDate": "20/11/2024, 10:27:23 am",
+      "id": "YtKL7_q"
+    },
+    {
+      "caption": "Habibi",
+      "YoutubeURL": "https://www.youtube.com/embed/drr8XByJMMI",
+      "formatedDate": "20/11/2024, 10:27:34 am",
+      "id": "U4CI2nO"
+    },
+    {
+      "caption": "Avesham",
+      "YoutubeURL": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "20/11/2024, 10:28:33 am",
+      "id": "mkZehGa"
+    }
+  ]
+}
